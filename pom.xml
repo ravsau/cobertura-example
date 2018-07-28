@@ -51,6 +51,9 @@
             <packageLineRate>60</packageLineRate>
             <packageBranchRate>60</packageBranchRate>
           </check>
+          <formats>
+              <format>xml</format>
+             </formats>
         </configuration>
         <executions>
           <execution>
